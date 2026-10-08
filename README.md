@@ -73,5 +73,5 @@ curl -X POST localhost:8000/score -H 'Content-Type: application/json' -d '{
 }
 ```
 
-See `DOCUMENTATION.md` for the full design rationale, feature dictionary,
+Please Check `DOCUMENTATION.md` for the full design rationale, feature dictionary,
 evaluation methodology and API reference.
